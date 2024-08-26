@@ -53,3 +53,5 @@ dkms.conf
 *.~undo-tree~
 zig-cache/
 .zig-cache/
+zig-out/
+main
